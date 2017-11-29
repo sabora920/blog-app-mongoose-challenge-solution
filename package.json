@@ -13,6 +13,7 @@
     "faker": "^4.1.0",
     "mongoose": "^4.7.1",
     "morgan": "^1.7.0",
+    "travis": "^0.1.1",
     "uuid": "^2.0.3"
   },
   "keywords": [
